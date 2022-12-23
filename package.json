@@ -1,5 +1,5 @@
 {
-  "name": "max_api_client",
+  "name": "api_client",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,8 +10,8 @@
     "ora": "^6.1.2"
   },
   "scripts": {
-    "st_l": "cp .env.local .env && ./index.js",
-    "st_d": "cp .env.recette .env && ./index.js"
+    "st_l": "cp .env.local .env && node index.js",
+    "st_d": "cp .env.recette .env && node index.js"
   },
   "devDependencies": {
     "eslint": "^8.25.0"
