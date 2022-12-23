@@ -15,4 +15,5 @@
 ## Usage
 
 Request local server: `yarn st_l <scenarioName> --<scenarioArg> <scenarioVal>`
+
 Request dist server: `yarn st_d <scenarioName> --<scenarioArg> <scenarioVal>`
