@@ -2,6 +2,10 @@
 
 ## Prepare
 
+- Fetch dependencies
+
+`yarn`
+
 - Configure servers' env:
 
 `cp sample.env .env.local`
