@@ -5,6 +5,7 @@
 - Configure servers' env:
 
 `cp sample.env .env.local`
+
 `cp sample.env .env.recette`
 
 - Configure scenarios:
